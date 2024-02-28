@@ -1,0 +1,24 @@
+.card-courses-item {
+  margin-top: 16px;
+}
+
+.text-size-20 {
+  font-size: 20px;
+}
+
+.user-avartar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+
+.checkbox-select-all {
+  width: 175px;
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../resouces/sass/app.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAGA;EACI;;;AAGJ;EACI;;;AAGJ;EACI;EACA;EACA;;;AAGJ;EACI;;;AAGJ;EACI;EACA%22,%22file%22:%22app.css%22%7D */

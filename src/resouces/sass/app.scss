@@ -1,0 +1,25 @@
+@import 'variables';
+
+
+.card-courses-item{
+    margin-top: 16px;
+}
+
+.text-size-20{
+    font-size: 20px;
+}
+
+.user-avartar{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
+
+.checkbox-select-all {
+    width: 175px
+}
+
+.disabled { // khác video
+    pointer-events: none;
+    cursor: default;
+}
